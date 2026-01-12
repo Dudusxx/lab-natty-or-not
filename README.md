@@ -17,7 +17,7 @@ O texto do projeto foi gerado com o auxílio do ChatGPT. O vídeo foi criado uti
 ## 🚀 Resultados
 Este projeto demonstra como a Inteligência Artificial Generativa pode ser aplicada de forma acessível e gratuita na criação de conteúdos educacionais multimídia, destacando seus benefícios, impactos e desafios no mundo atual.
 
-[LINK PARA O VÍDEO AQUI](https://youtu.be/Jw0P_XQSNwo)
+[LINK PARA O VÍDEO](https://youtu.be/Jw0P_XQSNwo)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
