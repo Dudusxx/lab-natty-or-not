@@ -1,20 +1,23 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Como a Inteligência Artificial Generativa Afeta o Mundo 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+O texto do projeto foi gerado com o auxílio do ChatGPT. O vídeo foi criado utilizando o CapCut, com recursos de Inteligência Artificial para conversão de texto em fala, resultando em um conteúdo audiovisual gerado por IA.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- **ChatGPT**: geração do texto e roteiro do conteúdo.
+- **CapCut**: criação do vídeo com recurso de **texto para fala por IA**.
+- **GitHub**: versionamento do projeto e criação do portfólio.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+1. O texto do projeto foi gerado utilizando o ChatGPT, abordando os impactos da IA generativa em áreas como trabalho, educação e criação de conteúdo.
+2. O texto gerado foi adaptado como roteiro para um vídeo curto.
+3. O vídeo foi criado no CapCut, utilizando recursos gratuitos de Inteligência Artificial para conversão de texto em narração (Text to Speech).
+4. O vídeo final foi exportado e disponibilizado por meio de um link externo.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+Este projeto demonstra como a Inteligência Artificial Generativa pode ser aplicada de forma acessível e gratuita na criação de conteúdos educacionais multimídia, destacando seus benefícios, impactos e desafios no mundo atual.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://youtu.be/Jw0P_XQSNwo)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
